@@ -1,0 +1,54 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #282828;
+}
+.login {
+	width: 400px;
+	padding: 40px;
+	margin: auto;
+	margin-top: 200px;
+	background-color: rgba(0, 0, 0, 0.2);
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.4);
+}
+.login h2 {
+	color: #fff;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.login .login_box {
+	position: relative;
+	width: 100%;
+}
+.login .login_box input {
+	outline: none;
+	border: none;
+	width: 100%;
+	padding: 10px 0;
+	margin-bottom: 30px;
+	color: #fff;
+	font-size: 16px;
+	border-bottom: 1px solid #fff;
+	/* 背景颜色为透明色 */
+	background-color: transparent;
+}
+
+.login a {
+	overflow: hidden;
+	padding: 10px 20px;
+	margin-left: 124px;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	background-color: #005ff8;
+	box-shadow: 0 0 5px #005ff8;
+	transition: all 0.5s;
+}
+.login a:hover {
+	color: #fff;
+	background-color: #0b8aff;
+	box-shadow: 0 0 5px #0b8aff;
+}

@@ -1,0 +1,459 @@
+/* feed页面 */
+
+.title {
+    height: 134.4px;
+    color: #fff;
+    padding: 40px 0;
+    margin: auto;
+    line-height: 134.4px;
+    
+}
+.title .types {
+    float: right;
+    background-color: #262626;
+    border-radius: 5px;
+    margin-top: 5.2px;
+}
+
+.title h1 {
+    float: left;
+    font-size: 36px;
+    height: 54.4px;
+    line-height: 54.4px;
+}
+
+.types .types-box {
+    float: right;
+    width: 180px;
+    height: 44px;
+    padding: 0 16px;
+    line-height: 44px;
+}
+
+.types .types-box span {
+    display: inline-block;
+    width: 130px;
+    height: 20.8px;
+    font-size: 13px;
+    line-height: 20.8px;
+}
+.types .types-box i {
+    display: inline-block;
+    height: 20.8px;
+    line-height: 20.8px;
+}
+.types .types-box i img {
+    width: 12px;
+    height: 12px;
+    vertical-align: middle;
+    margin-top: 4.4px;
+}
+
+.big-box {
+    margin: auto;
+}
+
+.w-left {
+    float: left;
+    width: 290px;
+    height: 500px;
+    background-color: #1b1b1b;
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.w-left h2, 
+.w-right h2 {
+    display: block;
+    width: 258px;
+    height: 28px;
+    margin-bottom: 15px;
+    font-size: 19px;
+    color: #fff;
+}
+
+.w-left .left-info {
+    margin-bottom: 18px;
+}
+
+.w-left .left-info a {
+    display: inline-block;
+    width: 258px;
+    height: 23.2px;
+    font-size: 15px;
+}
+
+.w-left .left-info a:hover {
+    text-decoration: underline;
+}
+
+.w-left .left-info p {
+    font-size: 12px;
+    color: #9f9f9f;
+}
+
+.w-middle {
+    float: left;
+    width: 680px;
+    height: 2000px;
+    margin: 0 20px;
+}
+
+.w-middle .middle-title {
+    width: 680px;
+    height: 56px;
+    margin-bottom: 16px;
+    padding: 12px;
+    background-color: #1b1b1b;
+    border-radius: 5px;
+}
+
+.w-middle .middle-title .left {
+    float: left;
+    width: 480px;
+    height: 32px;
+    line-height: 32px;
+    padding:0;
+    margin: 0;
+}
+
+.w-middle .middle-title .left .img {
+    float: left;
+    width: 32px;
+    height: 32px;
+}
+
+.w-middle .middle-title .left img {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+
+.w-middle .middle-title .left .text {
+    float: left;
+    width: 427px;
+    height: 20.8px;
+    font-size: 14px;
+    color: #fff;
+    line-height: 20.8px;
+    margin:4.4px 10px;
+    
+}
+
+.w-middle .middle-title .right {
+    float:right;
+    width: 125px;
+    height: 20.8px;
+    padding-top:3px;
+}
+
+.w-middle .middle-title .right span {
+    width: 96px;
+    height: 20.8px;
+    color: #ffdf00;
+    margin-right: 8px;
+    font-size: 14px;
+    
+}
+
+.w-middle .middle-title .right img {
+    width: 18px;
+    vertical-align: middle;
+}
+
+.w-middle .flow-card {
+    width: 680px;
+    height: 300px;
+    margin-bottom: 16px;
+    padding: 16px;
+    background-color: #1b1b1b;
+    border-radius: 5px;
+}
+
+.flow-card .top {
+    float: left;
+    width: 648px;
+    height: 36px;
+    margin-bottom: 20px;
+}
+.top .img {
+    float: left;
+    width: 32px;
+    height: 32px;
+    padding-top: 2px;
+} 
+.top img { 
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.top .top-email {
+    float: left;
+    width: 238.64px;
+    height: 20px;
+    font-size: 12px;
+    margin: 8px 0 0 10px;
+    color: #fff;
+}
+
+.top .top-email span {
+    color: #9f9f9f;
+}
+
+.top .top-email:hover strong {
+    text-decoration: underline;
+}
+.top .ad {
+    float: right;
+    width: 24px;
+    height: 14px;
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: hsla(0,0%,100%,.25);
+    margin: 11px 0;
+}
+
+.flow-card .left {
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px;
+}
+
+.flow-card .right {
+    float: left;
+    width: 498px;
+    height: 150px;
+    padding-left: 20px;
+    color: #fff;
+}
+
+
+.right .bofang-name {
+    width: 332.85px;
+    height: 35px;
+    line-height: 35px;
+}
+
+.right .bofang-name .bofang {
+    float: left;
+    width: 28px;
+    height: 28px;
+    border: 1px solid white ;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.5);
+    margin:3.5px 7px 0 0 ;
+}
+
+.right .bofang-name .bofang img {
+    height: 14px; 
+    width: 12px; 
+    margin: auto;
+}
+
+.right .bofang-name .a {
+    float: left;
+    width:296.85px;
+    height: 35px;
+    padding-top: 5px;
+}
+
+.right .bofang-name a {
+    display: inline-block;
+    height: 25px;
+    font-size: 20px;   
+    font-weight:700;
+    line-height: 1.25;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.right .bofang-name a:hover {
+    text-decoration: underline;
+}
+.right .beat-type{
+    margin-top: 5px;
+    font-size: 12px;
+    color: #9f9f9f;
+}
+
+.right .time {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #9f9f9f;
+}
+
+.right .zuozhe {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #9f9f9f;
+}
+
+.right .shop {
+    float: left;
+    width: 85px;
+    height: 30px;
+    background-color: #005ff8;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.shop span {
+    font-size: 12px;
+    font-family: 'Poppins';
+    margin-left: 5px;
+    color: #fff;
+}
+.right .shop img {
+    width: 12px;
+    height: 12px;
+}
+
+
+.flow-card .bottom {
+    float: left;
+    width: 648px;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.bottom .dianzan,
+.zhuanfa,
+.pinglun,
+.fenxiang {
+    float: left;
+    width: 80px;
+    height: 40px;
+}
+
+.bottom .tubiao {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color: #1b1b1b;
+}
+
+.bottom  .tubiao img {
+    width: 20px;
+    height: 20px;
+}
+
+.bottom .shuzi {
+    float: left;
+    height: 40px;
+    font-size: 14px;
+    color: #9f9f9f;
+}
+
+.fenxiang .tubiao img {
+    width: 15px;
+    height: 15px;
+}
+
+.w-right {
+    float: left;
+    width: 290px;
+    height: 584.2px;
+    padding: 16px;
+    background-color: #1b1b1b;
+    border-radius: 5px;
+}
+
+.w-right ul li {
+    display: block;
+    width: 258px;
+    height: 60px;
+    line-height: 60px;
+    color: #fff;
+    margin-top: 15px;
+}
+
+.w-right ul li .img {
+    float: left;
+    width: 45px;
+    height: 60px;
+    padding-top: 7.5px;
+}
+
+.w-right ul li img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.w-right ul li .info {
+    float: left;
+    width: 163px;
+    height: 60px;
+    margin-left: 10px;
+    padding:13px 0 13px 5px;
+}
+
+.w-right ul li .info .usename {
+    float: left;
+    width: 157px;
+    height: 18px;
+} 
+
+.w-right ul li .info .usename a {
+    float: left;
+    font-size: 14px;
+    width: 71px;
+    height: 18px;
+    line-height: 18PX;
+}
+
+.w-right ul li .info .usename a:hover {
+    text-decoration: underline;
+}
+
+.w-right ul li .info .usename .ad {
+    float: left;
+    width: 24px;
+    height: 14px;
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: hsla(0,0%,100%,.25);
+    margin:1px 2px;
+}
+
+
+.w-right ul li .info span{
+    float: left;
+    font-size: 12px;
+    width: 157px;
+    height: 16px;
+    line-height: 16px;
+    color: #9f9f9f;
+}
+
+
+.w-right ul li .button {
+    float: left;
+    width: 40px;
+    height: 60px;
+    padding-top: 4px;
+}
+.w-right ul li button {
+    width: 40px;
+    height: 28px;
+    background-color: #005ff8;
+    border-radius: 5px;
+    padding: 6px 12px ;
+}
+.w-right ul li .button img {
+    width: 16px;
+    height: 16px;
+}
+
