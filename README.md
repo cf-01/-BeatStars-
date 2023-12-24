@@ -1,6 +1,9 @@
 # 模仿BeatStars静态页面
 
 #### 介绍
+
+> 拿走可以点点star吗
+
 大一下写的HTML+CSS课大作业，模仿了beatstars的几个页面
 像素级复刻，当时大部分使用的是浮动来控制元素。少量使用绝对定位。
 现在的beatStars可能界面可能改动了，这个是21年的beatStars
